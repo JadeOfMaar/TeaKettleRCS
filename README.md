@@ -1,5 +1,5 @@
 # TeaKettleRCS
-Standalone thermal RCS for atomic ships. They unlock with the stock NERVA.
+Standalone thermal RCS for atomic ships. They unlock with the stock NERVA. Stock RCS thruster for scale.
 ![image](https://i.imgur.com/BjCE2yJ.png)
 If CryoEngines, Kerbal Atomics, or Rational Resources is present, expect 5 fuel options with detailed tooltip in accordance with the offerings of Rational Resources Nuclear Family. Provides basic LiquidFuel option (and only this option) if these mods are not present or if "Kerbal Atomics use LiquidFuel" patch/modlet is present.
 
