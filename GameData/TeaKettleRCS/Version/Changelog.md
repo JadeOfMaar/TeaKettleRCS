@@ -1,5 +1,8 @@
 # Tea Kettle RCS
 
+## 1.3.1
+* Added Carbon Monoxide and Nitrogen options for parity with Rational Resources Nuclear Family. Thanks to user DareMightyThingsJPL.
+
 ## 1.3.0
 * Fixed a fatal issue with Classic Stock Resources.
 * Reduced thrust multiplier for when Sterling Systems installed. (4x --> 2x.)
